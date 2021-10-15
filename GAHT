@@ -1,6 +1,0 @@
-cd D:\Aim1\AimOne
-git init
-git add GAHTProviders.geojson
-git commit -m 'first commit'
-git remote add origin https://github.com/arose-ev/GAHT.git
-git push -u origin master
